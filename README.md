@@ -1,2 +1,2 @@
 # Channel Desk Windows
-4.1.1
+4.1.2
